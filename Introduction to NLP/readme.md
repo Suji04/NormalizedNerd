@@ -7,4 +7,4 @@
 [![part 5](https://i.ytimg.com/vi/Fn_U2OG1uqI/mqdefault.jpg)](https://youtu.be/Fn_U2OG1uqI)
 [![part 6](https://i.ytimg.com/vi/oMd7sMlxYFk/mqdefault.jpg)](https://youtu.be/oMd7sMlxYFk)
 [![part 7](https://i.ytimg.com/vi/-Y_tldJX9jk/mqdefault.jpg)](https://youtu.be/-Y_tldJX9jk)
-
+[![part 8](https://i.ytimg.com/vi/pMjT8GIX0co/mqdefault.jpg)](https://youtu.be/pMjT8GIX0co)
