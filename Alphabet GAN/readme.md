@@ -8,4 +8,4 @@ I tied to generate English and Bengali alphabets with generative adversarial net
 ![bengali alphabets](https://github.com/Suji04/NormalizedNerd/blob/master/Alphabet%20GAN/bangla-gan.gif)
 
 ## Data Source
-https://shahariarrabby.github.io/ekush/#home
+https://www.nist.gov/itl/products-and-services/emnist-dataset
