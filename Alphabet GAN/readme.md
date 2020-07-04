@@ -7,5 +7,8 @@ I tied to generate English and Bengali alphabets with generative adversarial net
 ## Evolution of generated Bengali alphabets
 ![bengali alphabets](https://github.com/Suji04/NormalizedNerd/blob/master/Alphabet%20GAN/bangla-gan.gif)
 
+## Video
+[![video](https://i.ytimg.com/vi/RzcXri2eJrI/mqdefault.jpg)](https://youtu.be/RzcXri2eJrI)
+
 ## Data Source
 https://www.nist.gov/itl/products-and-services/emnist-dataset
