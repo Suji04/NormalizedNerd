@@ -10,4 +10,4 @@ I tied to generate English and Bengali alphabets with generative adversarial net
 [![video](https://i.ytimg.com/vi/RzcXri2eJrI/mqdefault.jpg)](https://youtu.be/RzcXri2eJrI)
 
 ## Data Source
-https://www.nist.gov/itl/products-and-services/emnist-dataset
+https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format
