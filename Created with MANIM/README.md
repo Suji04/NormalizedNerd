@@ -1,5 +1,5 @@
 # Source codes of the videos created with manim
-Here you'll find the source codes for the videos that I've created with an awesome library called manim. 
+Here you'll find the source codes of the videos that I've created with an awesome library called manim. 
 #### Caution: Messy codes ahead! 
 
 ## Videos
