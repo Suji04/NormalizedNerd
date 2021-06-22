@@ -67,12 +67,3 @@ if __name__ == "__main__":
     pool.close()
     en = time.time()
     print("time taken = ", en-st, "\n")
-
-
-
-
-
-
-
-
-
